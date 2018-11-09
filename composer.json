@@ -1,5 +1,5 @@
 {
-   "name":"filld/filld-service-status",
+   "name":"filld/service-status",
    "description": "A simple status response to the root `/` route. It returns the App name, version, environment, and git sha.",
    "autoload":{
       "psr-4":{
